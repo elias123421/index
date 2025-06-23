@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>FRAME triangulos</title>
+</head>
+<frameset rows="10%,30%,55%,*">
+<frame src="clasificacion.html">
+<frameset cols="50%,*">
+<frame src="menulados.html">
+<frame src="menuangulos.html">
+</frameset>
+<frameset cols="50%,*">
+<frame src="equilatero.html" name="1">
+<frame src="rectangulo.html" name="2">
+</frameset>
+<frame src="autor.html">
+
+
+
+
+
+</frameset>
+
+</html>
